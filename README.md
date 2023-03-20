@@ -1,5 +1,5 @@
 
-# Amazon DynamoDB Building a Serverless Web Application
+# Developed a Severless Web Application with Amazon DynamoDB
 
 Developed a serverless music application, I utilized Amazon DynamoDB, AWS Lambda, and Amazon API Gateway to build the application's backend, while hosting the front-end website on Amazon S3. The application allowed users to view and manage music albums in the database
 
